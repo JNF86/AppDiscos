@@ -1,0 +1,11 @@
+C:\Users\Prepem\Desktop\repos\AppDiscos\AppDiscos\bin\Debug\AppDiscos.exe.config
+C:\Users\Prepem\Desktop\repos\AppDiscos\AppDiscos\bin\Debug\AppDiscos.exe
+C:\Users\Prepem\Desktop\repos\AppDiscos\AppDiscos\bin\Debug\AppDiscos.pdb
+C:\Users\Prepem\Desktop\repos\AppDiscos\AppDiscos\obj\Debug\AppDiscos.csproj.AssemblyReference.cache
+C:\Users\Prepem\Desktop\repos\AppDiscos\AppDiscos\obj\Debug\AppDiscos.csproj.SuggestedBindingRedirects.cache
+C:\Users\Prepem\Desktop\repos\AppDiscos\AppDiscos\obj\Debug\AppDiscos.frmDiscos.resources
+C:\Users\Prepem\Desktop\repos\AppDiscos\AppDiscos\obj\Debug\AppDiscos.Properties.Resources.resources
+C:\Users\Prepem\Desktop\repos\AppDiscos\AppDiscos\obj\Debug\AppDiscos.csproj.GenerateResource.cache
+C:\Users\Prepem\Desktop\repos\AppDiscos\AppDiscos\obj\Debug\AppDiscos.csproj.CoreCompileInputs.cache
+C:\Users\Prepem\Desktop\repos\AppDiscos\AppDiscos\obj\Debug\AppDiscos.exe
+C:\Users\Prepem\Desktop\repos\AppDiscos\AppDiscos\obj\Debug\AppDiscos.pdb
